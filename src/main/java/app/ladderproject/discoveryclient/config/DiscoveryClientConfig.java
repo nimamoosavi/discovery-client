@@ -1,4 +1,4 @@
-package com.webold.discoveryclient.config;
+package app.ladderproject.discoveryclient.config;
 
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.context.annotation.Configuration;

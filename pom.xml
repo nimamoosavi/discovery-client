@@ -8,7 +8,7 @@
         <version>2.3.0.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.webold</groupId>
+    <groupId>app.ladderproject</groupId>
     <artifactId>discovery-client</artifactId>
     <version>1.0.1-Released</version>
     <name>discovery-client</name>
